@@ -9,7 +9,7 @@
 ## 🚀 **About Me**
 
 * 🎓 **Computer Science & Engineering Student (Final Year)**
-* ❤️ Passionate about **Artificial Intelligence, Machine Learning, Deep Learning & Computer Vision**
+* ❤️ Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision & NLP**
 * 🤖 Interested in **LLMs, Agentic AI, LangChain & LangGraph**
 * 💡 Love creating **real-world AI applications and intelligent systems**
 * 📱 Experienced in **React Native, Laravel, Flask, and Full-Stack Development**
